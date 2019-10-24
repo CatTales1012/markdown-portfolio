@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of a tiny me](https://drive.google.com/open?id=0ByScqICWA1Ksc2FBcWRsZ2laT0ZtZlFlRHc3QjhUakU5eXp3)
